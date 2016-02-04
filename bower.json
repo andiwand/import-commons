@@ -1,0 +1,9 @@
+{
+  "name": "import-commons",
+  "version": "0.0.1",
+  "dependencies": {
+    "commons.js": "git+https://github.com/andiwand/commons.js.git",
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "private": true
+}
